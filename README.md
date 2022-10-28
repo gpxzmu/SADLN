@@ -16,9 +16,6 @@ SADLN.py: Examples of SADLN for subtyping and cluster
 # the input list of BRCA omics data set is input.txt. We can use the following command to finish the subtyping process: 
 python SADLN.py -m SADLN -t BRCA -i ./input/BRCA.list
 #the output file are stored in ./results/BRAC.SADLN
-#SADLN's gmm clustering module is used as follows:
-python SADLN.py -m gmm -t BRCA -i ./input/BRCA.list
-# record the corresponding class label for each sample and the output file is ./results/BRCA.SADLN
 ~~~
 
 transformer.py: Section of self-attention network 
