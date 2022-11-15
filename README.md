@@ -41,7 +41,7 @@ SADLN is based on the Python program language.
 
 Overall architecture of SADLN shown follows:
 
-![Figure1](.\Figure1.jpg)
+![Figure1](Figure1.jpg)
 
 SADLN's main network design in the figure above is deployed in `SADLN.py`, with the exception of the self attention model deployed in `transformer.py`. The training part of SADLN is deployed in `SADLN.py`
 
