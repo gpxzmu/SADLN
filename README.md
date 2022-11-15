@@ -10,7 +10,7 @@ fea, input: Input multi omics data of SADLN
 
 results: Output of SADLN
 
-SADLN.py: Examples of SADLN for subtyping and cluster
+==SADLN.py==: Examples of SADLN for subtyping and cluster
 
 ~~~python
 # the input list of BRCA omics data set is input.txt. We can use the following command to finish the subtyping process: 
