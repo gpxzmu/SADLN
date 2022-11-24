@@ -6,19 +6,21 @@ SADLN
 
 ## Files
 
-fea, input: Input multi-omics data of SADLN
+`fea, input`: Input multi-omics data of SADLN
 
-results: Output of SADLN
+`results`: Output of SADLN
 
-SADLN.py: Examples of SADLN for subtyping and cluster
+`SADLN.py`: Examples of SADLN for subtyping and cluster
 
-transformer.py: Section of self-attention network 
+`transformer.py`: Section of self-attention network 
 
-decisiontree.py: Section of calculating the contribution of single-omics
+`decisiontree.py`: Section of calculating the contribution of single-omics
 
-p_value.R: Section of P-value calculation  in survival analysis
+`Example.ipynb`:Simple process demonstration of the project, including data input, model training, data output and result visualization with jupyter notebook
 
-clinlc_analysis.R: Section of clinical parameters enrichment analysis
+`p_value.R`: Section of P-value calculation  in survival analysis
+
+`clinlc_analysis.R`: Section of clinical parameters enrichment analysis
 
 ## Requirements
 
